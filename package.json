@@ -1,0 +1,22 @@
+{
+  "name": "cli_documents",
+  "version": "1.0.0",
+  "description": "My Documents CLI",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myDoc": "./bin/index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "yargs": "^17.0.1"
+  }
+}
