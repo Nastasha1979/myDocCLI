@@ -1,6 +1,6 @@
 # myDocCLI
 
-This CLI will output the command to go to local Documents folder from any directory. Working on figuring out how to execute the command
+This CLI will output the command to go to local Documents folder from any directory. 
 
 Usage: Input 'myDoc go' to go to local Documents folder.
 
